@@ -4,10 +4,10 @@ This repository contains **mathematical problems solved using Python**.
 
 ## Notebooks
 
-**Maximum_no_of_Triangles.ipynb**
+**maximum_no_of_triangles.ipynb**
 A Python implementation to solve a problem related to calculating the maximum number of triangles.
 
-**Point_lie_Inside_Circle.ipynb**
+**point_lie_inside_circle.ipynb**
 A program to determine whether a given point lies **inside or outside a circle**.
 
 ## Tools Used
